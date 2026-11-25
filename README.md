@@ -1,6 +1,6 @@
-# Pixel Perfect Pagecraft
+# FindIt – Campus Lost & Found
 
-Implement exactly the screenshot and nothing else
+A centralized lost-and-found platform for college campuses: report lost items, post found items, browse and search listings, and mark items as claimed.
 
 This project was built with [Lovable](https://lovable.dev).
 
