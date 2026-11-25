@@ -28,3 +28,5 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+- Data is stored in browser localStorage (src/lib/items.ts) as a demo mode; swap that module to move to Lovable Cloud.
